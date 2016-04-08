@@ -3,7 +3,6 @@ source 'https://rubygems.org'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'devise'
 gem 'toastr-rails'
-gem 'sendgrid-rails'
 ruby '2.2.1'
 gem 'rails_12factor', group: :production
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
