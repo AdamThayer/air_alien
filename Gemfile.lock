@@ -130,6 +130,9 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
+    sendgrid-rails (2.0.5)
+      actionmailer (>= 3.0.0)
+      activesupport (>= 2.1.0)
     spring (1.6.4)
     sprockets (3.5.2)
       concurrent-ruby (~> 1.0)
@@ -172,6 +175,7 @@ DEPENDENCIES
   rails (= 4.2.5.1)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
+  sendgrid-rails
   spring
   toastr-rails
   turbolinks
